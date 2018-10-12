@@ -11,5 +11,5 @@ npm install
 Para ver la ayuda 
 
 ```
-npm install
+help
 ```
