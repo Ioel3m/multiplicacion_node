@@ -8,7 +8,7 @@ Para comenzar, ejecutar comando
 npm install
 ```
 
-Para ver la ayuda 
+Para ver la ayuda, ejecutar commando
 
 ```
 help
